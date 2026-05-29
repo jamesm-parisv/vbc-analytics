@@ -14,7 +14,7 @@ import streamlit as st
 
 APP_TITLE = "VBC Analytics — version recruteur"
 DATA_DIR = Path(__file__).parent / "data" / "processed"
-GITHUB_URL = ""  # À remplacer après création du repo, ex. "https://github.com/jamesmacnaughtan/vbc-analytics"
+GITHUB_URL = "https://github.com/jamesm-parisv/vbc-analytics"
 
 PR_BINS = [0, 4.5, 6.5, 8.5, 10.5, 13, np.inf]
 PR_LABELS = ["< 4.5", "4.5–6.5", "6.5–8.5", "8.5–10.5", "10.5–13", "13+"]
