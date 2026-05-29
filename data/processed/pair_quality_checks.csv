@@ -1,0 +1,19 @@
+﻿TournamentDate,Round,PlayerA,PlayerB,RowCount,QualityIssues,MatchID,SourceRefs
+2023-07-02,1,Anthony Korn,Steeve Korn,1,Pair row count = 1,20230702_R1_AKO_SKO,20230702.csv:row7:Anthony Korn
+2023-07-02,1,Antoine Canteloup,Steeve Korn,1,Pair row count = 1,20230702_R1_ACA_SKO,20230702.csv:row6:Steeve Korn
+2023-07-02,2,Anthony Korn,Ibrahima Guillard,1,Pair row count = 1,20230702_R2_AKO_IGU,20230702.csv:row7:Anthony Korn
+2023-07-02,2,Antoine Canteloup,Ibrahima Guillard,1,Pair row count = 1,20230702_R2_ACA_IGU,20230702.csv:row8:Ibrahima Guillard
+2023-07-02,3,Anthony Korn,Greg Boghossian,1,Pair row count = 1,20230702_R3_AKO_GBO,20230702.csv:row7:Anthony Korn
+2023-07-02,3,Antoine Canteloup,Greg Boghossian,1,Pair row count = 1,20230702_R3_ACA_GBO,20230702.csv:row10:Greg Boghossian
+2023-07-02,4,Anthony Korn,Wil Benotmane,1,Pair row count = 1,20230702_R4_AKO_WBE,20230702.csv:row7:Anthony Korn
+2023-07-02,4,Antoine Canteloup,Wil Benotmane,1,Pair row count = 1,20230702_R4_ACA_WBE,20230702.csv:row12:Wil Benotmane
+2023-07-02,4,Gildas Bouilland,Steeve Korn,2,BetterPR does not match lower PR,20230702_R4_KUB_SKO,20230702.csv:row4:Gildas Bouilland; 20230702.csv:row6:Steeve Korn
+2023-07-02,5,Anthony Korn,James MacNaughtan,1,Pair row count = 1,20230702_R5_AKO_JMA,20230702.csv:row7:Anthony Korn
+2023-07-02,5,Antoine Canteloup,James MacNaughtan,1,Pair row count = 1,20230702_R5_ACA_JMA,20230702.csv:row13:James MacNaughtan
+2025-02-09,3,Elias Baltassis,Gildas Bouilland,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20250209_R3_EBA_KUB,20250209.csv:row8:Gildas Bouilland; 20250209.csv:row10:Elias Baltassis
+2025-04-27,3,Olivier Croisille,Yurika Ueno,2,BetterPR does not match lower PR,20250427_R3_OCR_YUE,20250427.csv:row4:Olivier Croisille; 20250427.csv:row14:Yurika Ueno
+2025-12-06,1,BYE,Valentin Marotte,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20251206_R1_BYE_VMA,20251206.csv:row10:Valentin Marotte; 20251206.csv:row16:BYE
+2025-12-06,2,BYE,Sami Tamim,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20251206_R2_BYE_STA,20251206.csv:row9:Sami Tamim; 20251206.csv:row16:BYE
+2025-12-06,3,BYE,Vincent de Nardi,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20251206_R3_BYE_VDN,20251206.csv:row11:Vincent de Nardi; 20251206.csv:row16:BYE
+2025-12-06,4,BYE,Vincent Frilley,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20251206_R4_BYE_VFR,20251206.csv:row12:Vincent Frilley; 20251206.csv:row16:BYE
+2025-12-06,5,Anthony Korn,BYE,2,Missing victory flag; Missing BetterPR flag; Missing decisions; Missing PR; Missing equity,20251206_R5_AKO_BYE,20251206.csv:row3:Anthony Korn; 20251206.csv:row16:BYE

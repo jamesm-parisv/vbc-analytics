@@ -1,0 +1,11 @@
+﻿TournamentDate,TournamentFile,SourceRow,PlayerName,Round,Field,RawValue,CleanedValue,IssueType,ActionTaken
+2023-10-15,20231015.csv,13,Sarah Partouche,5,PR,25.3,25.3,High PR review,Retained
+2023-12-17,20231217.csv,13,Sarah Partouche,4,PR,28.48,28.48,High PR review,Retained
+2024-05-05,20240505.csv,3,Sami Tamim,5,PR,29.7,29.7,High PR review,Retained
+2024-09-29,20240929.csv,10,Sarah Partouche,3,PR,37.12,37.12,High PR review,Retained
+2024-11-17,20241117.csv,10,Paul Courtois,3,PR,25.72,25.72,High PR review,Retained
+2024-11-17,20241117.csv,10,Paul Courtois,5,PR,45.69,45.69,High PR review,Retained
+2025-04-27,20250427.csv,14,Yurika Ueno,2,PR,34.79,34.79,High PR review,Retained
+2025-06-01,20250601.csv,8,Yurika Ueno,4,PR,38.27,38.27,High PR review,Retained
+2025-06-01,20250601.csv,11,Patrice de Sainte Marie,3,PR,7016.0,7.016,Likely missing decimal separator,Auto-scaled by dividing by 1000; verify against source if possible
+2025-09-14,20250914.csv,22,Yurika Ueno,4,PR,30.74,30.74,High PR review,Retained
